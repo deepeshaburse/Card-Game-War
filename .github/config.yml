@@ -1,7 +1,7 @@
 # Replies to people who have created an issue on this repository for the first time.
 
-content: |
-  newIssueWelcomeComment: >
+
+  newIssueWelcomeComment: > |
     Hi! 👋
     Thank you so much for opening your first issue with us! 🎉 We are thrilled to have you here and really appreciate you taking the time to contribute.
     Your input is valuable in making our project better for everyone. If you have any questions, do not hesitate to ask. We're here to help and support you along the way!
@@ -16,7 +16,7 @@ content: |
     Happy contributing! 🚀
   # Replies to people who have created a PR on this repository for the first time.
   
-  newPRWelcomeComment: >
+  newPRWelcomeComment: > |
     Hi! 👋
     
     Thank you so much for submitting your first pull request! 🎉 We are excited to see your contribution and really appreciate the effort you've put in.
@@ -36,9 +36,9 @@ content: |
     Happy contributing! 🚀
   # Replies to people who have merged a PR on this repository for the first time.
   
-  firstPRMergeComment: >
+  firstPRMergeComment: > |
     Congratulations on merging your first pull request! We hope to see more of your contributions to Wikibase Suite. 
     
     We would love to see you join our community on [Telegram]() if you haven't already.
     
-  See you very soon in the next contribution 🚀
+    See you very soon in the next contribution 🚀
